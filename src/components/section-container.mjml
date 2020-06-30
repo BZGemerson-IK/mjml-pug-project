@@ -1,0 +1,17 @@
+<mj-wrapper
+  background-color="#fff"
+  padding="0 28px 14px">
+  <mj-section
+    border="1px solid #D9D9D9"
+    border-radius="20px">
+    <mj-column width="100%"
+      padding-left="28px"
+      padding-right="28px">
+      
+      <mj-text>
+        wrapper standar for a section => CONTENT
+      </mj-text>
+
+    </mj-column>
+  </mj-section>
+</mj-wrapper>

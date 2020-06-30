@@ -1,0 +1,53 @@
+<mj-wrapper
+  background-color="#fff"
+  padding="0 28px 14px">
+  <mj-section
+    border="1px solid #D9D9D9"
+    border-radius="20px">
+    <mj-column width="100%"
+      padding-left="28px"
+      padding-right="28px">
+      
+      <mj-image src="https://ci4.googleusercontent.com/proxy/a821nmoLSI1XFe0KSUUZeNyf8pYVnwjllZvXkFOYq_0dTZFC8QSEgnb-3UUUP331wKUpxU8_G15lH2vXhUXzw-ak8rSuArtHI73WtGTmxemn186F97P0vX0YHhvt2vGWGgm-CQ=s0-d-e1-ft#https://s3-us-west-2.amazonaws.com/inkafarmaproductimages/email/carrito_clock.png"
+        alt="" padding="0 0 20px 0"
+        width="60px"/>
+      <mj-text
+        padding="0 0 7px 0"
+        align="center"
+        color="#262626"
+        font-size="26px">
+        Lorena, hemos modificado tu pedido
+      </mj-text>
+      <mj-text
+        padding="0 0 24px 0"
+        align="center"
+        color="#262626"
+        font-size="26px">
+        #1234567
+      </mj-text>
+      <mj-text
+        padding="0 0 14px 0"
+        align="center"
+        color="#737373"
+        font-size="14px">
+        Entrega estimada
+      </mj-text>
+      <mj-text
+        padding="0 0 20px 0"
+        align="center"
+        color="#262626"
+        font-size="21px">
+        20 de junio a las 5:45pm
+      </mj-text>
+      <mj-text
+        padding="0 22px 7px 22px"
+        align="center"
+        color="#737373"
+        font-size="12px"
+        line-height="18px">
+        Por la coyuntura del COVID-19, estamos atendiendo una alta demanda, por lo que podríamos demorar con tu pedido o no contar con el stock de todos los productos. En ese último caso no se le cobrará por el mismo.
+      </mj-text>
+
+    </mj-column>
+  </mj-section>
+</mj-wrapper>

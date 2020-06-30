@@ -1,0 +1,109 @@
+<mj-wrapper
+  background-color="#fff"
+  padding="0 28px 14px">
+  <mj-section
+    border="1px solid #D9D9D9"
+    border-radius="20px">
+    <mj-column width="100%"
+      padding-left="28px"
+      padding-right="28px">
+      
+      <mj-table padding="0 0 14px 0">
+        <tr width="100%" padding="0">
+          <td style="width: 24px; position: relative;">
+            <image src="https://ci4.googleusercontent.com/proxy/a821nmoLSI1XFe0KSUUZeNyf8pYVnwjllZvXkFOYq_0dTZFC8QSEgnb-3UUUP331wKUpxU8_G15lH2vXhUXzw-ak8rSuArtHI73WtGTmxemn186F97P0vX0YHhvt2vGWGgm-CQ=s0-d-e1-ft#https://s3-us-west-2.amazonaws.com/inkafarmaproductimages/email/carrito_clock.png"
+              style="position: absolute; top: 4px"
+              width="20px"/>
+          </td>
+          <td style="width: calc( 100% - 24px )">
+            <div style="font-size: 14px; font-weight: bold; color: #262626; padding-bottom: 4px">
+              Tipo de entrega:
+            </div>
+            <div style="font-size: 14px; color: #262626; line-height: 16px">
+              Envío a una dirección, Mi Casa: Jirón Lopez de Ayala 640, San Borja
+            </div>
+          </td>
+        </tr>
+      </mj-table>
+
+      <mj-table padding="0 0 14px 0">
+        <tr width="100%" padding="0">
+          <td style="width: 24px; position: relative;">
+            <image src="https://ci4.googleusercontent.com/proxy/a821nmoLSI1XFe0KSUUZeNyf8pYVnwjllZvXkFOYq_0dTZFC8QSEgnb-3UUUP331wKUpxU8_G15lH2vXhUXzw-ak8rSuArtHI73WtGTmxemn186F97P0vX0YHhvt2vGWGgm-CQ=s0-d-e1-ft#https://s3-us-west-2.amazonaws.com/inkafarmaproductimages/email/carrito_clock.png"
+              style="position: absolute; top: 4px"
+              width="20px"/>
+          </td>
+          <td style="width: calc( 100% - 24px )">
+            <div style="font-size: 14px; font-weight: bold; color: #262626; padding-bottom: 4px">
+              Nombre de quién recoge:
+            </div>
+            <div style="font-size: 14px; color: #262626; line-height: 16px">
+              Maria Duarte, 44332255
+            </div>
+          </td>
+        </tr>
+      </mj-table>
+
+      <mj-table padding="0 0 14px 0">
+        <tr width="100%" padding="0">
+          <td style="width: 24px; position: relative;">
+            <image src="https://ci4.googleusercontent.com/proxy/a821nmoLSI1XFe0KSUUZeNyf8pYVnwjllZvXkFOYq_0dTZFC8QSEgnb-3UUUP331wKUpxU8_G15lH2vXhUXzw-ak8rSuArtHI73WtGTmxemn186F97P0vX0YHhvt2vGWGgm-CQ=s0-d-e1-ft#https://s3-us-west-2.amazonaws.com/inkafarmaproductimages/email/carrito_clock.png"
+              style="position: absolute; top: 4px"
+              width="20px"/>
+          </td>
+          <td style="width: calc( 100% - 24px )">
+            <div style="font-size: 14px; font-weight: bold; color: #262626; padding-bottom: 4px">
+              Medio de pago:
+            </div>
+            <div style="font-size: 14px; color: #262626; line-height: 16px">
+              Pago en línea, Mastercard
+            </div>
+          </td>
+        </tr>
+      </mj-table>
+
+      <mj-table padding="0 0 14px 0">
+        <tr width="100%" padding="0">
+          <td style="width: 24px; position: relative;">
+            <image src="https://ci4.googleusercontent.com/proxy/a821nmoLSI1XFe0KSUUZeNyf8pYVnwjllZvXkFOYq_0dTZFC8QSEgnb-3UUUP331wKUpxU8_G15lH2vXhUXzw-ak8rSuArtHI73WtGTmxemn186F97P0vX0YHhvt2vGWGgm-CQ=s0-d-e1-ft#https://s3-us-west-2.amazonaws.com/inkafarmaproductimages/email/carrito_clock.png"
+              style="position: absolute; top: 4px"
+              width="20px"/>
+          </td>
+          <td style="width: calc( 100% - 24px )">
+            <div style="font-size: 14px; font-weight: bold; color: #262626; padding-bottom: 4px">
+              Comprobante de pago:
+            </div>
+            <div style="font-size: 14px; color: #262626; line-height: 16px">
+              Boleta
+            </div>
+          </td>
+        </tr>
+      </mj-table>
+
+      <mj-table padding="0 0 14px 0">
+        <tr width="100%" padding="0">
+          <td style="width: 24px; position: relative;">
+            <image src="https://ci4.googleusercontent.com/proxy/a821nmoLSI1XFe0KSUUZeNyf8pYVnwjllZvXkFOYq_0dTZFC8QSEgnb-3UUUP331wKUpxU8_G15lH2vXhUXzw-ak8rSuArtHI73WtGTmxemn186F97P0vX0YHhvt2vGWGgm-CQ=s0-d-e1-ft#https://s3-us-west-2.amazonaws.com/inkafarmaproductimages/email/carrito_clock.png"
+              style="position: absolute; top: 4px"
+              width="20px"/>
+          </td>
+          <td style="width: calc( 100% - 24px )">
+            <div style="font-size: 14px; font-weight: bold; color: #262626; padding-bottom: 4px">
+              Comprobante de pago: <span style="font-weight: normal; padding-left: 7px">Factura</span>
+            </div>
+            <div style="font-size: 14px; color: #262626; line-height: 16px; padding-bottom: 7px">
+              RUC: Empresa S.A.C
+            </div>
+            <div style="font-size: 14px; color: #262626; line-height: 16px; padding-bottom: 7px">
+              Razón social: Empresa
+            </div>
+            <div style="font-size: 14px; color: #262626; line-height: 16px; padding-bottom: 7px">
+              Domicilio legal: Av. del Aire 123 - La Victoria
+            </div>
+          </td>
+        </tr>
+      </mj-table>
+
+    </mj-column>
+  </mj-section>
+</mj-wrapper>

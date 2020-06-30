@@ -1,8 +1,3 @@
-<mj-raw>
-  <!-- START: Product Details -->
-  {{#each products}}
-</mj-raw>
-
 <mj-section
   background-color="#fafafa"
   padding="20px">
@@ -24,7 +19,3 @@
   </mj-column>
 </mj-section>
 
-<mj-raw>
-  {{/each}}
-  <!-- END: Product Details -->
-</mj-raw>

@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compile:test": "./node_modules/.bin/mjml src/first-test.mjml -o dist/first-test.html"
+    "compile:test": "./node_modules/.bin/mjml src/first-test.mjml -o dist/first-test.html",
+    "compile:inkafarma-template": "./node_modules/.bin/mjml src/templates/inkafarma-template.mjml -o dist/templates/inkafarma-template.html"
   },
   "keywords": [],
   "author": "",

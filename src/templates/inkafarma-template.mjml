@@ -1,0 +1,43 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text padding="0" />
+      <mj-class name="blue" color="blue" />
+      <mj-class name="big" font-size="20px" />
+      <mj-all font-family="Muli" />
+    </mj-attributes>
+    <mj-breakpoint width="319px" />
+    <mj-font name="Muli" href="https://fonts.googleapis.com/css?family=Muli" />
+  </mj-head>
+
+  <mj-body background-color="#F7F7F7">
+
+    <mj-section
+      background-color="#fff"
+      padding="10px 0">
+      <mj-column width="100%">
+        <mj-image src="https://s3-us-west-2.amazonaws.com/inkafarmaproductimages/email/logo-01.png"
+          alt="logo de inkafarma"
+          width="160px"
+          align="left"/>
+      </mj-column>
+    </mj-section>
+
+
+    // START: wrapper standar for a section 
+    <mj-include path="../components/section-container.mjml" />
+    // END: wrapper standar for a section
+    
+
+    // START: main information about order
+    <mj-include path="../components/order-main-information.mjml" />
+    // END: main information about order
+
+
+    // START: order delivery information 
+    <mj-include path="../components/order-delivery-information.mjml" />
+    // END: order delivery information
+
+
+  </mj-body>
+</mjml>
